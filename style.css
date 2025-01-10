@@ -1,6 +1,17 @@
-header{
-    background-color: aqua;
+header {
+  background-color: aqua;
 }
-.logo_image{
-    width: 50px;
+.logo_image {
+  width: 50px;
+}
+.nav_li {
+  display: inline;
+}
+.logo {
+  display: inline;
+  vertical-align: middle;
+}
+.navigation {
+  display: inline-block;
+  vertical-align: middle;
 }
